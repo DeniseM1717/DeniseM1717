@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pronouns: She/They
+
+Hi, I am Denise Martinez and I attend California State University Long Beach as a Computer Science major.
+
+I am interested in learning about Operating Systems because it bridges together computer engineering and computer science.
+
+One of my favorite hobbies is weightlifting.
