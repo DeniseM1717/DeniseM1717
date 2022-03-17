@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 Pronouns: She/They
 
 Hi, I am Denise Martinez and I attend California State University Long Beach as a Computer Science major.
-
-I am interested in learning about Operating Systems because it bridges together computer engineering and computer science.
-
-One of my favorite hobbies is weightlifting.
+I believe I can provide a very unique perspective in the male-dominated computer science field as a first gen, latinx individual. The LGBTQIA+ community is a vital part of who I am so I hope I can use my struggles and experiences to bring representation to my communities.
