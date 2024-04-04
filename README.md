@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Pronouns: She/They
 
-Hi, I am Denise Martinez and I attend California State University Long Beach as a Computer Science major.
-I believe I can provide a very unique perspective in the male-dominated computer science field as a first gen, latinx individual. The LGBTQIA+ community is a vital part of who I am so I hope I can use my struggles and experiences to bring representation to my communities.
+Hi, I am Denise Martinez and I'm a first-generation transfer student at the University of Southern California studying Computer Science and Business Administration.
+I believe I can provide a very unique perspective in the male-dominated field as a first gen, latinx individual. The LGBTQIA+ community is also a vital part of who I am so I hope I can use my struggles and experiences to bring representation to my communities.
